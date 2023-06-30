@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Fernando Mahiler Chullo Mamani
-- 👀 I’m interested in Software development
+- 👋 Hi, I’m Fernando Mahiler Chullo Mamani from Perú
+- 👀 Software developer with 3 years of experience
 - 🌱 I’m currently learning Software Architecture
 
 <!---
